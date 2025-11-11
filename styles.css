@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+ table{
+      text-align: center;
+      border: 2px solid black;
+      border-collapse: collapse;
+    }
+    th,td,tr{
+      border: 2px solid black;
+      padding: 10px;
+    }

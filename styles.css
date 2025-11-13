@@ -1,4 +1,4 @@
- table{
+ .container,table{
       text-align: center;
       border: 2px solid black;
       border-collapse: collapse;
